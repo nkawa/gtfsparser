@@ -10,7 +10,7 @@ import (
 	hex "encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/patrickbr/gtfsparser/gtfs"
+	"github.com/nkawa/gtfsparser/gtfs"
 	mail "net/mail"
 	url "net/url"
 	"strconv"
