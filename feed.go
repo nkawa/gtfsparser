@@ -1,3 +1,5 @@
+// Copyright 2018 Nobuo Kawaguchi(nkawa)
+
 // Copyright 2016 Patrick Brosi
 // Authors: info@patrickbrosi.de
 //
@@ -10,7 +12,7 @@ import (
 	"archive/zip"
 	"errors"
 	"fmt"
-	"github.com/patrickbr/gtfsparser/gtfs"
+	"github.com/nkawa/gtfsparser/gtfs"
 	"io"
 	"math"
 	"os"
